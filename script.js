@@ -12,4 +12,3 @@ document.getElementById('checkbox').addEventListener('click', () => {
 if (localStorage.getItem("mode") === "dark") {
     body.classList.toggle('dark');
 }
-
